@@ -4,7 +4,8 @@
 
 
 <h2> 📄 Certifications</h2>
-- Microsoft Azure Fundamentals (Azure 900) (https://shorturl.at/hCMO8) 
+- Microsoft Azure Fundamentals (Azure 900) (https://shorturl.at/hCMO8)
+  
 - GCP Associate Cloud Engineer (https://shorturl.at/zP035)
 
 <h2>📺 Popular YouTube Videos</h2>
