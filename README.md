@@ -4,8 +4,8 @@
 
 
 <h2> 📄 Certifications</h2>
-- Microsoft Azure Fundamentals (Azure 900) (https://www.credly.com/badges/f70110b0-8b22-4177-af22-66f8338ca1b0/linked_in_profile) 
-- GCP Associate Cloud Engineer (https://www.credential.net/afe44027-efe2-465b-8c03-dd818c3a6b3d)
+- Microsoft Azure Fundamentals (Azure 900) (https://shorturl.at/hCMO8) 
+- GCP Associate Cloud Engineer (https://shorturl.at/zP035)
 
 <h2>📺 Popular YouTube Videos</h2>
 
