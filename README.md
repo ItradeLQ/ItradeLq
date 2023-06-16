@@ -10,8 +10,9 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ItradeLQ/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ItradeLQ/azure-network-protocols)	
   - [Building Intuition for DNS](https://github.com/ItradeLQ/building-intuition-for-dns)
+  - [Network File Shares And Permissions](https://github.com/ItradeLQ/network-file-shares-and-permissions)
 
-<h2>👨‍💻 Cybersecurity Projects: 📣 COMING SOON 📣
+<h2>👨‍💻 Cybersecurity Projects: 📣 COMING SOON 📣ItradeLQ
 
 <h2>📄 Certifications<h2>
 
