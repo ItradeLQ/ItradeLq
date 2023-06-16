@@ -3,25 +3,23 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
  
  - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Kenronishe-Gumbs/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/Kenronishe-Gumbs/osticket-prereqs) 
   - [osTicket: Post-Installation Configuration](https://github.com/Kenronishe-Gumbs/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Kenronishe-Gumbs/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Kenronishe-Gumbs/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kenronishe-Gumbs/azure-network-protocols)
+
+<h2>👨‍💻 Cybersecurity Projects: 📣 COMING SOON 📣</h2>
+
+<h2>📄 Certifications</h2>
+Microsoft Azure Fundamentals (Azure 900) (https://shorturl.at/hCMO8)
  
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+GCP Associate Cloud Engineer (https://shorturl.at/zP035)
+ 
 
-
-<h2> 📄 Certifications</h2>
- Microsoft Azure Fundamentals (Azure 900) (https://shorturl.at/hCMO8)
-  
- GCP Associate Cloud Engineer (https://shorturl.at/zP035)
-
-  
-  
-  
-<h2>📺 Popular YouTube Videos</h2>
+ 
+<h2>📺 Popular YouTube Videos: 📣 COMING SOON 📣</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
