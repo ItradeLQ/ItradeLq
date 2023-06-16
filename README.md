@@ -4,12 +4,12 @@
  
  - <b>osTicket (Help Desk Ticketing System)</b>
    - [osTicket: Prerequisites and Installation](https://github.com/ItradeLQ/osticket-prereqs) 
-   - [osTicket: Post-Installation Configuration](https://github.com/Kenronishe-Gumbs/post-install-config)
-   - [osTicket: Ticket Lifecycle Examples](https://github.com/Kenronishe-Gumbs/ticket-lifecycle)
+   - [osTicket: Post-Installation Configuration](https://github.com/ItradeLQ/post-install-config)
+   - [osTicket: Ticket Lifecycle Examples](https://github.com/ItradeLQ/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Kenronishe-Gumbs/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Kenronishe-Gumbs/azure-network-protocols)	
-  - [Building Intuition for DNS](https://github.com/Kenronishe-Gumbs/building-intuition-for-dns)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ItradeLQ/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ItradeLQ/azure-network-protocols)	
+  - [Building Intuition for DNS](https://github.com/ItradeLQ/building-intuition-for-dns)
 
 <h2>👨‍💻 Cybersecurity Projects: 📣 COMING SOON 📣
 
