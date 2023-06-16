@@ -13,10 +13,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects: 📣 COMING SOON 📣
 
-<h2>📄 Certifications
-  
-  - [Microsoft Azure Fundamentals (Azure 900)](https://shorturl.at/hCMO8)
-  GCP Associate Cloud Engineer (https://shorturl.at/zP035)
+<h2>📄 Certifications<h2>
+ 
+  - [Microsoft Azure Fundamentals (Azure 900)](https://shorturl.at/hCMO8) 
+  - [GCP Associate Cloud Engineer](https://shorturl.at/zP035)
+  - [(ISC)² Certified in Cybersecurity](https://ww.google.com)
  
 <h2>📺 Popular YouTube Videos: 📣 COMING SOON 📣</h2>
 
