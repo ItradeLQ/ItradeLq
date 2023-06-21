@@ -12,9 +12,12 @@
   - [Building Intuition for DNS](https://github.com/ItradeLQ/building-intuition-for-dns)
   - [Network File Shares And Permissions](https://github.com/ItradeLQ/network-file-shares-and-permissions)
 
-<h2>👨‍💻 Cybersecurity Projects: 📣 COMING SOON 📣
+<h2>👨‍💻 Cybersecurity Projects: 📣 COMING SOON 📣</h2>
 
-<h2>📄 Certifications<h2>
+  -    [Configuring a SIEM in Microsoft Azure | Azure Sentinel - Cyber Attacks] - In progress ✍️
+
+
+<h2>📄 Certifications</h2>
 
   - [Microsoft Azure Fundamentals (Azure 900)](https://shorturl.at/hCMO8) 
   - [GCP Associate Cloud Engineer](https://shorturl.at/zP035)
@@ -34,3 +37,7 @@
 [instagram]:https://www.instagram.com/ken_gumbs/ 
 [linkedin]:https://www.linkedin.com/in/kenronishe-gumbs-a48bb623/
 [youtube]:https://www.youtube.com/channel/UCq4N6akSh3vsDtifDBtExlQ
+
+
+
+  - [Configuring a SIEM in Microsoft Azure | Azure Sentinel - Cyber Attacks] - In progress ✍️
