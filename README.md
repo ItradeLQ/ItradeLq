@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kenronishe!  <a href="https://www.linkedin.com/in/kenronishe-gumbs-a48bb623/">IT | Cloud | Cyber-Cloud Security Professional</a>
+<h1>Hi, I'm Kenronishe!  <a href="https://www.linkedin.com/in/kenronishe-gumbs-a48bb623/">IT | Cloud | CyberSecurity Professional</a>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
  
