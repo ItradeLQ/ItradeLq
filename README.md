@@ -12,7 +12,7 @@
   - [Building Intuition for DNS](https://github.com/ItradeLQ/building-intuition-for-dns)
   - [Network File Shares And Permissions](https://github.com/ItradeLQ/network-file-shares-and-permissions)
 
-<h2>👨‍💻 Cybersecurity Projects: 📣 COMING SOON 📣ItradeLQ
+<h2>👨‍💻 Cybersecurity Projects: 📣 COMING SOON 📣
 
 <h2>📄 Certifications<h2>
 
