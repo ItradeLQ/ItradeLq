@@ -19,6 +19,7 @@
   - [Microsoft Azure Fundamentals (Azure 900)](https://shorturl.at/hCMO8) 
   - [GCP Associate Cloud Engineer](https://shorturl.at/zP035)
   - [(ISC)² Certified in Cybersecurity](https://ww.google.com)
+  - [Course Careers - IT Professional] - In progress ✍️
  
 <h2>📺 Popular YouTube Videos: 📣 COMING SOON 📣</h2>
 
